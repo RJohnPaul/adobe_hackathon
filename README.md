@@ -96,4 +96,4 @@ The solution has been tested and verified against the following constraints and 
 
 ##  Attention
 
-- Since me and my teammates were thinking there were diffrent rounds for 1A and 1B hence only the solution provided is 1A
+- Since me and my teammates were thinking there were different rounds for 1A and 1B hence only the solution provided is 1A
